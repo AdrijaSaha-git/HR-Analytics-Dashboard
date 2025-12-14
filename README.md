@@ -22,3 +22,4 @@ HR-Analytics-Employee-Performance/
 - Performance vs compensation insights  
 - Demographic segmentation  
 - Basic ML model for attrition prediction 
+
