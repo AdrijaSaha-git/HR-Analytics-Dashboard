@@ -3,15 +3,16 @@
 An HR analytics project analyzing employee performance, attrition risk, salary trends, and workforce demographics.  
 Includes data cleaning, exploratory data analysis (EDA), and KPI reporting using Python and Excel.
 
+```
 ## 📁 Project Structure
-
 HR-Analytics-Employee-Performance/
 │── data/ → cleaned HR dataset (Excel)
 │── src/ → Python scripts (EDA + KPIs)
 │── reports/ → charts & summaries
 │── README.md
+```
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)  
 - Excel  
 - VS Code  
@@ -22,4 +23,5 @@ HR-Analytics-Employee-Performance/
 - Performance vs compensation insights  
 - Demographic segmentation  
 - Basic ML model for attrition prediction 
+
 
